@@ -25,5 +25,22 @@ span{
 }
 
 .didascalia{
-    font-size: 12px;
+    font-size: 10px;
+}
+
+.paragrafo{
+    padding-top: 20px;
+}
+
+.text-decoration{
+    background-color: yellow;
+    color: black;
+}
+
+.thead{
+    background-color: aqua;
+}
+
+.tbody{
+    background-color: rgb(152, 237, 252);
 }
